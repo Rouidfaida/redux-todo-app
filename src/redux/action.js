@@ -33,5 +33,8 @@ export const updateItem = id => ({
 });
 export const filTask=() =>({
     type:FILTER_TASK, 
-    // payload:isDone
-})
+
+
+    
+    }
+)
